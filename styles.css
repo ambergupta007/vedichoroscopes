@@ -1,0 +1,55 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color:#403134;
+	color: #FFFFDC;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+}
+
+h1, h2, h3 {
+	font: 1em;
+	font-weight: normal;
+	letter-spacing: -1px;
+	color: #000;
+}
+
+p, ol, ul {
+	line-height: 1.67em;
+}
+
+a {
+	color: #828170;
+}
+
+a:hover {
+	text-decoration: none;
+}
+
+
+
+/* Page */
+#page {
+	width: 800px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+}
+#page #logoImage {
+	margin-bottom: 10px;
+}
+
+/* Content */
+#content {
+	width: 780px;
+	margin-bottom: 10px;
+	background-color:#CCC;
+	color:#000;
+	height: auto;
+	padding: 10px;
+}
